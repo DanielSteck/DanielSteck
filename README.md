@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### My name is Daniel Steck
+
+Currently I am learning python and I am getting started in github, VSCode and applied Statistics
 
 <!--
 **DanielSteck/DanielSteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
