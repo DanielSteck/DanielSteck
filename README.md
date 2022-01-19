@@ -1,7 +1,13 @@
 ### Hi there 👋
-#### My name is Daniel Steck
+#### My name is Daniel Steck 
 
-Currently I am learning python and I am getting started in github, VSCode and applied Statistics
+- 25 years old
+- living in Stuttgart
+- I am studying Data Science as my Masters degree, therefore I am getting started to learn about Python, GitHub, VS code and applied Statistics
+- I am currently learning how to analyze data with regression and classification.
+- Currently I am working mainly on the project from my university and making quite good progress.
+
+
 
 <!--
 **DanielSteck/DanielSteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
